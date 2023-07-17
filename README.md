@@ -23,41 +23,41 @@ Tampilan Tabel Pengeluaran
 <img src = 'hasilSS/pengeluaran.png'/>
 
 
-Tampilan Tabel Database 
+Tampilan Database 
 
 <img src = 'hasilSS/DataBase.png'/>
 
 
-Tampilan Tabel Database Tabel 
+Tampilan Database Tabel 
 
 <img src = 'hasilSS/database_table.png'/>
 
 
-Tampilan Tabel Database Tabel Kategori 
+Tampilan Database Tabel Kategori 
 
 <img src = 'hasilSS/Kategori_tabel.png'/>
 
 
-Tampilan Tabel Database Tabel Bagian 
+Tampilan Database Tabel Bagian 
 
 <img src = 'hasilSS/tabel_bagian.png'/>
 
 
-Tampilan Tabel Database Tabel Barang
+Tampilan Database Tabel Barang
 
 <img src = 'hasilSS/tabel_barang.png'/>
 
 
-Tampilan Tabel Database Tabel Pengeluaran
+Tampilan Database Tabel Pengeluaran
 
 <img src = 'hasilSS/tabel_pengeluaran.png'/>
 
 
-Tampilan Tabel Database Tabel Pengeluaran Item
+Tampilan Database Tabel Pengeluaran Item
 
 <img src = 'hasilSS/tabel_pengeluaran_item.png'/>
 
 
-Tampilan Tabel Database Tabel Petugas
+Tampilan Database Tabel Petugas
 
 <img src = 'hasilSS/tabel_petugas.png'/>
